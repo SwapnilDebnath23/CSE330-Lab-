@@ -1,2 +1,2 @@
-# CSE330-Lab-
-This is my Lab Works in Summer 2026
+# CSE330-Lab-Summer_2026 BRACU
+This is my CSE330 Lab Works in Summer 2026.
